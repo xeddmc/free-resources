@@ -1,26 +1,26 @@
-<h1 align="center">资源汇总</h1>
+<h1 align="center">Summary</h1>
 
-本文收集学习过程中收藏的资源
+This repository lists the resources I've collected throughout the learning process.
 
-相信对大家会有帮助
+I hope it helps you!
 
-喜欢的可以star, 持续更新中大家可以watch
+If you like the project, star it! To be notified when changes are made to the repository, watch it!
 
-## 目录
+## Contents
 
-* [前端](FRONTEND.md)
-* [自己动手](DIY.md)
-* [前辈经验](EXPERIENCE.md)
-* [面试](INTERVIEW.md)
-* [后端](BACKEND.md)
-* [常用工具](USEFULTOOLS.md)
-* [常用技巧](SKILLS.md)
-* [前端自检](CHECKLIST.md)
-* [精品系列](LIST.md)
-* [源码解析](SOURCECODE.md)
-* [GITHUB优秀开源项目](GITHUB.md)
-* [你需要关注的公众号、博客、大神等](FOLLOW.md)
-* [解惑](GUIDE.md)
-* [行业新闻](NEWS.md)
-* [其他](OTHER.md)
-* [abc-club技术博客](BLOG/README.md)
+* [Frontend](FRONTEND.md)
+* [Do It Yourself](DIY.md)
+* [Senior Experience](EXPERIENCE.md)
+* [Interview](INTERVIEW.md)
+* [Backend](BACKEND.md)
+* [Useful/Common Tools](USEFULTOOLS.md)
+* [Useful/Common Skills](SKILLS.md)
+* [Frontend Checklist](CHECKLIST.md)
+* [List](LIST.md)
+* [Source Code Analysis](SOURCECODE.md)
+* [Awesome Github Projects](GITHUB.md)
+* [Blogs, QQ Numbers, Social Media, etc., That You Need To Follow](FOLLOW.md)
+* [Guide](GUIDE.md)
+* [Industry News](NEWS.md)
+* [Miscellaneous/Other](OTHER.md)
+* [ABC-Club Tech Blog](BLOG/README.md)
